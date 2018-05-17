@@ -7,7 +7,7 @@ using System.Collections;
 using System.Threading.Tasks;
 
 #region Update history
-//Created by: Alejandro Palacios (pamanes@gmail.com)
+//Created by: Alejandro Iván Palacios Pámanes (pamanes@gmail.com)
 //Creation date: Jan 02, 2009
 //Updates:
 //  added method ExecuteSQL to run queries
